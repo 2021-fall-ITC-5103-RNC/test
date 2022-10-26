@@ -4,3 +4,5 @@ function main(){
   return null
 }
 main()
+
+console.log("hi everyone")
