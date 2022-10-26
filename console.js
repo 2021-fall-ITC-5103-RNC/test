@@ -11,3 +11,8 @@ console.log("hi everyone")
 console.log("hi everyone")
 console.log("hi everyone")
 console.log("hi everyone")
+
+function greet(){
+  return "hello"
+}
+main()
