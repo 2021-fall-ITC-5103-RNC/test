@@ -6,3 +6,8 @@ function main(){
 main()
 
 console.log("hi everyone")
+
+console.log("hi everyone")
+console.log("hi everyone")
+console.log("hi everyone")
+console.log("hi everyone")
